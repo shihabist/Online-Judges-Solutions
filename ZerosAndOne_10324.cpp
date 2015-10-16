@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define sf scanf
 using namespace std;
 
 char Array[1000050];
