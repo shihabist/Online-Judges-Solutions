@@ -29,7 +29,7 @@
 
 #define max3(a,b,c) max(a,max(b,c))
 #define min3(a,b,c) min(a,min(b,c))
-#define maximum(v)  *max_element(all(v)
+#define maximum(v)  *max_element(all(v))
 #define minimum(v)  *min_element(all(v))
 #define Reverse(x)  reverse(x.begin(),x.end())
 
