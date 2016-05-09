@@ -1,2 +1,2 @@
 # UVa
-A small collection of my UVa solutions.
+A small collection of my solutions to online judges' problems.
