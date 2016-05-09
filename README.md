@@ -1,2 +1,2 @@
 # UVa
-It's just a simple collection of my UVa solutions.
+A small collection of my UVa solutions.
