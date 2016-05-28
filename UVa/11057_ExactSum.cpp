@@ -32,7 +32,6 @@ Runtime: 0.010
 #define fi first
 #define se second
 #define Contains(X,item) ((X).find(item) != (X).end())
-#define CTN(T, x) (T.find(x) != T.end())
  
 #define max3(a,b,c) max(a,max(b,c))
 #define min3(a,b,c) min(a,min(b,c))
@@ -52,7 +51,6 @@ Runtime: 0.010
 #define ps(x) cout<<"Case "<<++x<<": "
 #define pcs(x) pf("Case %d: ", ++x)
 #define newl '\n'
-#define Newl "\n"
 #define nl puts ("")
 #define sqr(a) ((a)*(a))
 #define MAX 1000001
@@ -75,8 +73,7 @@ int main(){
         half = price/2;
         if ( ar[half] > 1 && ar[half]*2 == price){
             sv = fv = half;
-        }
-        else{
+        }else{
             loop(i, half, price){
                 fv = i;
                 sv = price - fv;
