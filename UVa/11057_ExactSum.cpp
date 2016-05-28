@@ -62,7 +62,7 @@ using namespace std;
  
 int ar[MAX+8];
 int main(){
-	FAST;
+    FAST;
     int n, a, price, half, fv, sv;
  
     while(cin >> n){
