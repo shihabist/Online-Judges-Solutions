@@ -58,7 +58,7 @@
 using namespace std;
 
 int main(){
-FAST;
+    FAST;
     int s, sum = 0, i, pos, missing, total;
     vector<int> v;
     for(int i = 1; ; i++){
